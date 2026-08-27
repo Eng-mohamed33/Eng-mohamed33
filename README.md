@@ -95,3 +95,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
+![Snake animation](https://raw.githubusercontent.com/Eng-mohamed33/Eng-mohamed33/output/github-contribution-grid-snake.svg)
