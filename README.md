@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Soliman</h1>
-<h3 align="center">🎓 3rd-year Computer Science Student @ Helwan University (Class of 2027)</h3>
+<h3 align="center">🎓 4th-year Computer Science Student @ Helwan University (Class of 2027)</h3>
 <h3 align="center">📊 Data Analyst  | 🤖 AI / ML Engineer</h3>
 
 <br>
